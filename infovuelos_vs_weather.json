@@ -2,164 +2,370 @@
   "airport_vs_weather": [
     {
       "dep_airport_name": "A CORUÑA",
-      "Chubascos dispersos": 229,
-      "Cubierto de nubes altas y medias": 66,
+      "Chubascos_dispersos": 229,
+      "Cubierto_de_nubes_altas_y_medias": 66,
       "Lluvia": 54,
-      "Lluvia débil": 58,
-      "Nubosidad variable": 129
+      "Lluvia_débil": 58,
+      "Nubosidad_variable": 129,
+      "Total_general": 536
     },
     {
       "dep_airport_name": "ALGECIRAS / HELIPUERTO",
-      "Chubascos dispersos": 16,
+      "Chubascos_dispersos": 16,
       "Despejado": 112,
-      "Nubes altas": 24,
-      "Tormentas localmente fuertes": 58
+      "Nubes_altas": 24,
+      "Tormentas_localmente_fuertes": 58,
+      "Total_general": 210
     },
     {
       "dep_airport_name": "ALICANTE-ELCHE",
-      "sin especificar": 32,
+      "sin_especificar": 32,
       "Despejado": 196,
-      "Nubes altas": 506,
-      "Nubosidad variable": 544
+      "Nubes_altas": 506,
+      "Nubosidad_variable": 544,
+      "Total_general": 1278
     },
     {
       "dep_airport_name": "ALMERIA",
-      "sin especificar": 1,
-      "Chubascos dispersos": 183,
+      "sin_especificar": 1,
+      "Chubascos_dispersos": 183,
       "Despejado": 543,
-      "Nubosidad variable": 22
+      "Nubosidad_variable": 22,
+      "Total_general": 749
     },
     {
       "dep_airport_name": "ASTURIAS",
-      "sin especificar": 1,
-      "Chubascos dispersos": 22,
-      "Cubierto de nubes altas y medias": 55,
+      "sin_especificar": 1,
+      "Chubascos_dispersos": 22,
+      "Cubierto_de_nubes_altas_y_medias": 55,
       "Lluvia": 290,
-      "Lluvia moderada": 99,
-      "Nubes altas": 193,
-      "Nubosidad variable": 113
+      "Lluvia_moderada": 99,
+      "Nubes_altas": 193,
+      "Nubosidad_variable": 113,
+      "Total_general": 773
     },
     {
       "dep_airport_name": "BADAJOZ",
-      "Chubascos dispersos": 16,
+      "Chubascos_dispersos": 16,
       "Lluvia": 19,
-      "Nubes altas": 8,
-      "Nubosidad variable": 7
+      "Nubes_altas": 8,
+      "Nubosidad_variable": 7,
+      "Total_general": 50
     },
     {
       "dep_airport_name": "BARCELONA-EL PRAT",
-      "sin especificar": 50,
-      "Abertura de claros": 595,
+      "sin_especificar": 50,
+      "Abertura_de_claros": 595,
       "Despejado": 280,
       "Lluvia": 1208,
-      "Lluvia débil": 124,
-      "Lluvia moderada": 118,
-      "Nubes altas": 723
+      "Lluvia_débil": 124,
+      "Lluvia_moderada": 118,
+      "Nubes_altas": 723,
+      "Total_general": 3098
     },
     {
       "dep_airport_name": "BILBAO",
-      "sin especificar": 8,
-      "Chubascos dispersos": 110,
+      "sin_especificar": 8,
+      "Chubascos_dispersos": 110,
       "Llovizna ": 106,
       "Lluvia": 43,
-      "Lluvia débil": 142,
-      "Lluvia moderada": 177,
-      "Nubes altas": 204,
-      "Nubosidad variable": 246
+      "Lluvia_débil": 142,
+      "Lluvia_moderada": 177,
+      "Nubes_altas": 204,
+      "Nubosidad_variable": 246,
+      "Total_general": 1036
     },
     {
       "dep_airport_name": "CASTELLÓN",
-      "sin especificar": 9
+      "sin_especificar": 9,
+      "Total_general": 9
     },
     {
       "dep_airport_name": "CEUTA",
-      "sin especificar": 1,
+      "sin_especificar": 1,
       "Despejado": 3,
       "Lluvia": 130,
-      "Nubes altas": 198
+      "Nubes_altas": 198,
+      "Total_general": 332
     },
     {
       "dep_airport_name": "EL HIERRO",
-      "sin especificar": 1,
-      "Chubascos dispersos": 100,
+      "sin_especificar": 1,
+      "Chubascos_dispersos": 100,
       "Despejado": 185,
-      "Nubes altas": 138,
-      "Nubosidad variable": 12
+      "Nubes_altas": 138,
+      "Nubosidad_variable": 12,
+      "Total_general": 436
     },
     {
       "dep_airport_name": "FUERTEVENTURA",
-      "Cubierto de nubes altas y medias": 52,
+      "Cubierto_de_nubes_altas_y_medias": 52,
       "Despejado": 288,
-      "Nubes altas": 572,
-      "Nubosidad variable": 389
+      "Nubes_altas": 572,
+      "Nubosidad_variable": 389,
+      "Total_general": 1301
     },
     {
       "dep_airport_name": "GIRONA - COSTA BRAVA",
-      "Chubascos dispersos": 39,
+      "Chubascos_dispersos": 39,
       "Lluvia": 508,
-      "Nubes altas": 222,
-      "Nubosidad variable": 376
+      "Nubes_altas": 222,
+      "Nubosidad_variable": 376,
+      "Total_general": 1145
     },
     {
       "dep_airport_name": "GRAN CANARIA",
-      "sin especificar": 30,
-      "Abertura de claros": 472,
-      "Cubierto de nubes altas y medias": 361,
-      "Nubes altas": 903,
-      "Nubosidad variable": 432
+      "sin_especificar": 30,
+      "Abertura_de_claros": 472,
+      "Cubierto_de_nubes_altas_y_medias": 361,
+      "Nubes_altas": 903,
+      "Nubosidad_variable": 432,
+      "Total_general": 2198
     },
     {
       "dep_airport_name": "GRANADA-JAÉN F.G.L.",
-      "Abertura de claros": 28,
-      "Chubascos dispersos": 139,
-      "Cubierto de nubes altas y medias": 146,
+      "Abertura_de_claros": 28,
+      "Chubascos_dispersos": 139,
+      "Cubierto_de_nubes_altas_y_medias": 146,
       "Despejado": 162,
       "Lluvia": 30,
-      "Nubes altas": 144,
-      "Nubosidad variable": 126
+      "Nubes_altas": 144,
+      "Nubosidad_variable": 126,
+      "Total_general": 775
     },
     {
       "dep_airport_name": "IBIZA",
-      "sin especificar": 37,
-      "Chubascos dispersos": 39,
+      "sin_especificar": 37,
+      "Chubascos_dispersos": 39,
       "Despejado": 128,
       "Llovizna ": 385,
-      "Lluvia débil": 118,
-      "Nubes altas": 205,
-      "Nuboso a muy nuboso": 184
+      "Lluvia_débil": 118,
+      "Nubes_altas": 205,
+      "Nuboso_a_muy_nuboso": 184,
+      "Total_general": 1096
     },
     {
       "dep_airport_name": "JEREZ DE LA FRONTERA",
-      "Abertura de claros": 72,
-      "Chubascos dispersos": 146,
+      "Abertura_de_claros": 72,
+      "Chubascos_dispersos": 146,
       "Despejado": 51,
       "Lluvia": 36,
-      "Nubes altas": 142,
-      "Nubosidad variable": 178
+      "Nubes_altas": 142,
+      "Nubosidad_variable": 178,
+      "Total_general": 625
     },
     {
       "dep_airport_name": "LA GOMERA",
-      "sin especificar": 1,
-      "Abertura de claros": 16,
-      "Chubascos dispersos": 23,
+      "sin_especificar": 1,
+      "Abertura_de_claros": 16,
+      "Chubascos_dispersos": 23,
       "Despejado": 29,
-      "Nubes altas": 73,
-      "Nubosidad variable": 6
+      "Nubes_altas": 73,
+      "Nubosidad_variable": 6,
+      "Total_general": 148
     },
     {
       "dep_airport_name": "LA PALMA",
-      "Abertura de claros": 342,
-      "Cubierto de nubes altas y medias": 218,
-      "Nubes altas": 639,
-      "Nubosidad variable": 274
+      "Abertura_de_claros": 342,
+      "Cubierto_de_nubes_altas_y_medias": 218,
+      "Nubes_altas": 639,
+      "Nubosidad_variable": 274,
+      "Total_general": 1473
     },
     {
       "dep_airport_name": "LANZAROTE",
-      "sin especificar": 1,
-      "Cubierto de nubes altas y medias": 56,
+      "sin_especificar": 1,
+      "Cubierto_de_nubes_altas_y_medias": 56,
       "Despejado": 307,
-      "Nubes altas": 584,
-      "Nubosidad variable": 393
+      "Nubes_altas": 584,
+      "Nubosidad_variable": 393,
+      "Total_general": 1341
+    },
+    {
+      "dep_airport_name": "LEON",
+      "Lluvia": 12,
+      "Total_general": 12
+    },
+    {
+      "dep_airport_name": "LOGROÑO - AGONCILLO",
+      "Lluvia": 10,
+      "Nubes_altas": 6,
+      "Nubosidad_variable": 6,
+      "Total_general": 22
+    },
+    {
+      "dep_airport_name": "MADRID-BARAJAS ADOLFO SUÁREZ",
+      "sin_especificar": 38,
+      "Abertura_de_claros": 723,
+      "Chubascos_dispersos": 965,
+      "Lluvia_débil": 423,
+      "Nubes_altas": 1108,
+      "Nubosidad_variable": 826,
+      "Total_general": 4083
+    },
+    {
+      "dep_airport_name": "MALAGA-COSTA DEL SOL",
+      "sin_especificar": 32,
+      "Chubascos_dispersos": 43,
+      "Despejado": 992,
+      "Nubes_altas": 138,
+      "Nubosidad_variable": 61,
+      "Tormentas_localmente_fuertes": 330,
+      "Total_general": 1596
+    },
+    {
+      "dep_airport_name": "MELILLA",
+      "Chubascos_dispersos": 155,
+      "Despejado": 358,
+      "Nubosidad_variable": 64,
+      "Total_general": 577
+    },
+    {
+      "dep_airport_name": "MENORCA",
+      "sin_especificar": 29,
+      "Abertura_de_claros": 91,
+      "Despejado": 249,
+      "Lluvia_débil": 200,
+      "Lluvia_moderada": 476,
+      "Total_general": 1045
+    },
+    {
+      "dep_airport_name": "MURCIA-SAN JAVIER",
+      "Abertura_de_claros": 252,
+      "Despejado": 58,
+      "Nubes_altas": 223,
+      "Nubosidad_variable": 258,
+      "Total_general": 791
+    },
+    {
+      "dep_airport_name": "PALMA DE MALLORCA",
+      "sin_especificar": 472,
+      "Despejado": 384,
+      "Lluvia": 810,
+      "Lluvia_moderada": 296,
+      "Nubes_altas": 129,
+      "Total_general": 2091
+    },
+    {
+      "dep_airport_name": "PAMPLONA",
+      "Abertura_de_claros": 13,
+      "Chubascos_dispersos": 4,
+      "Cubierto_de_nubes_altas_y_medias": 24,
+      "Lluvia": 53,
+      "Lluvia_moderada": 6,
+      "Nubes_altas": 24,
+      "Nubosidad_variable": 89,
+      "Total_general": 213
+    },
+    {
+      "dep_airport_name": "REUS",
+      "Cubierto_de_nubes_altas_y_medias": 63,
+      "Despejado": 20,
+      "Lluvia": 112,
+      "Lluvia_débil": 35,
+      "Nubes_altas": 57,
+      "Total_general": 287
+    },
+    {
+      "dep_airport_name": "SAN SEBASTIAN",
+      "Abertura_de_claros": 41,
+      "Chubascos_dispersos": 74,
+      "Lluvia": 82,
+      "Lluvia_débil": 33,
+      "Nubes_altas": 111,
+      "Nubosidad_variable": 47,
+      "Total_general": 388
+    },
+    {
+      "dep_airport_name": "SANTANDER-SEVE BALLESTEROS",
+      "sin_especificar": 1,
+      "Chubascos_dispersos": 202,
+      "Despejado": 84,
+      "Lluvia": 104,
+      "Lluvia_moderada": 65,
+      "Nubes_altas": 101,
+      "Nubosidad_variable": 34,
+      "Total_general": 591
+    },
+    {
+      "dep_airport_name": "SANTIAGO",
+      "sin_especificar": 3,
+      "Chubascos_dispersos": 438,
+      "Cubierto_de_nubes_altas_y_medias": 126,
+      "Lluvia": 103,
+      "Lluvia_débil": 133,
+      "Nubosidad_variable": 301,
+      "Total_general": 1104
+    },
+    {
+      "dep_airport_name": "SEVILLA",
+      "Abertura_de_claros": 38,
+      "Chubascos_dispersos": 249,
+      "Despejado": 108,
+      "Lluvia": 43,
+      "Lluvia_débil": 143,
+      "Nubes_altas": 546,
+      "Nubosidad_variable": 188,
+      "Total_general": 1315
+    },
+    {
+      "dep_airport_name": "TENERIFE NORTE",
+      "sin_especificar": 103,
+      "Despejado": 1506,
+      "Nubes_altas": 266,
+      "Nubosidad_variable": 944,
+      "Total_general": 2819
+    },
+    {
+      "dep_airport_name": "TENERIFE SUR",
+      "Despejado": 654,
+      "Nubes_altas": 127,
+      "Nubosidad_variable": 366,
+      "Total_general": 1147
+    },
+    {
+      "dep_airport_name": "VALENCIA",
+      "sin_especificar": 11,
+      "Abertura_de_claros": 196,
+      "Despejado": 286,
+      "Nubes_altas": 108,
+      "Nubosidad_variable": 618,
+      "Total_general": 1219
+    },
+    {
+      "dep_airport_name": "VALLADOLID",
+      "Abertura_de_claros": 3,
+      "Chubascos_dispersos": 102,
+      "Lluvia_moderada": 30,
+      "Nubes_altas": 29,
+      "Nubosidad_variable": 27,
+      "Total_general": 191
+    },
+    {
+      "dep_airport_name": "VIGO",
+      "Chubascos_dispersos": 136,
+      "Lluvia": 45,
+      "Lluvia_débil": 236,
+      "Nubosidad_variable": 146,
+      "Total_general": 563
+    },
+    {
+      "dep_airport_name": "VITORIA",
+      "Abertura_de_claros": 54,
+      "Chubascos_dispersos": 30,
+      "Lluvia": 22,
+      "Lluvia_débil": 2,
+      "Muy_nuboso": 6,
+      "Nubosidad_variable": 6,
+      "Total_general": 120
+    },
+    {
+      "dep_airport_name": "ZARAGOZA",
+      "Chubascos_dispersos": 42,
+      "Lluvia": 7,
+      "Lluvia_débil": 9,
+      "Nubes_altas": 261,
+      "Total_general": 319
     }
   ]
 }
