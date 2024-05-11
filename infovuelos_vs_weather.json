@@ -1,0 +1,165 @@
+{
+  "airport_vs_weather": [
+    {
+      "dep_airport_name": "A CORUÑA",
+      "Chubascos dispersos": 229,
+      "Cubierto de nubes altas y medias": 66,
+      "Lluvia": 54,
+      "Lluvia débil": 58,
+      "Nubosidad variable": 129
+    },
+    {
+      "dep_airport_name": "ALGECIRAS / HELIPUERTO",
+      "Chubascos dispersos": 16,
+      "Despejado": 112,
+      "Nubes altas": 24,
+      "Tormentas localmente fuertes": 58
+    },
+    {
+      "dep_airport_name": "ALICANTE-ELCHE",
+      "sin especificar": 32,
+      "Despejado": 196,
+      "Nubes altas": 506,
+      "Nubosidad variable": 544
+    },
+    {
+      "dep_airport_name": "ALMERIA",
+      "sin especificar": 1,
+      "Chubascos dispersos": 183,
+      "Despejado": 543,
+      "Nubosidad variable": 22
+    },
+    {
+      "dep_airport_name": "ASTURIAS",
+      "sin especificar": 1,
+      "Chubascos dispersos": 22,
+      "Cubierto de nubes altas y medias": 55,
+      "Lluvia": 290,
+      "Lluvia moderada": 99,
+      "Nubes altas": 193,
+      "Nubosidad variable": 113
+    },
+    {
+      "dep_airport_name": "BADAJOZ",
+      "Chubascos dispersos": 16,
+      "Lluvia": 19,
+      "Nubes altas": 8,
+      "Nubosidad variable": 7
+    },
+    {
+      "dep_airport_name": "BARCELONA-EL PRAT",
+      "sin especificar": 50,
+      "Abertura de claros": 595,
+      "Despejado": 280,
+      "Lluvia": 1208,
+      "Lluvia débil": 124,
+      "Lluvia moderada": 118,
+      "Nubes altas": 723
+    },
+    {
+      "dep_airport_name": "BILBAO",
+      "sin especificar": 8,
+      "Chubascos dispersos": 110,
+      "Llovizna ": 106,
+      "Lluvia": 43,
+      "Lluvia débil": 142,
+      "Lluvia moderada": 177,
+      "Nubes altas": 204,
+      "Nubosidad variable": 246
+    },
+    {
+      "dep_airport_name": "CASTELLÓN",
+      "sin especificar": 9
+    },
+    {
+      "dep_airport_name": "CEUTA",
+      "sin especificar": 1,
+      "Despejado": 3,
+      "Lluvia": 130,
+      "Nubes altas": 198
+    },
+    {
+      "dep_airport_name": "EL HIERRO",
+      "sin especificar": 1,
+      "Chubascos dispersos": 100,
+      "Despejado": 185,
+      "Nubes altas": 138,
+      "Nubosidad variable": 12
+    },
+    {
+      "dep_airport_name": "FUERTEVENTURA",
+      "Cubierto de nubes altas y medias": 52,
+      "Despejado": 288,
+      "Nubes altas": 572,
+      "Nubosidad variable": 389
+    },
+    {
+      "dep_airport_name": "GIRONA - COSTA BRAVA",
+      "Chubascos dispersos": 39,
+      "Lluvia": 508,
+      "Nubes altas": 222,
+      "Nubosidad variable": 376
+    },
+    {
+      "dep_airport_name": "GRAN CANARIA",
+      "sin especificar": 30,
+      "Abertura de claros": 472,
+      "Cubierto de nubes altas y medias": 361,
+      "Nubes altas": 903,
+      "Nubosidad variable": 432
+    },
+    {
+      "dep_airport_name": "GRANADA-JAÉN F.G.L.",
+      "Abertura de claros": 28,
+      "Chubascos dispersos": 139,
+      "Cubierto de nubes altas y medias": 146,
+      "Despejado": 162,
+      "Lluvia": 30,
+      "Nubes altas": 144,
+      "Nubosidad variable": 126
+    },
+    {
+      "dep_airport_name": "IBIZA",
+      "sin especificar": 37,
+      "Chubascos dispersos": 39,
+      "Despejado": 128,
+      "Llovizna ": 385,
+      "Lluvia débil": 118,
+      "Nubes altas": 205,
+      "Nuboso a muy nuboso": 184
+    },
+    {
+      "dep_airport_name": "JEREZ DE LA FRONTERA",
+      "Abertura de claros": 72,
+      "Chubascos dispersos": 146,
+      "Despejado": 51,
+      "Lluvia": 36,
+      "Nubes altas": 142,
+      "Nubosidad variable": 178
+    },
+    {
+      "dep_airport_name": "LA GOMERA",
+      "sin especificar": 1,
+      "Abertura de claros": 16,
+      "Chubascos dispersos": 23,
+      "Despejado": 29,
+      "Nubes altas": 73,
+      "Nubosidad variable": 6
+    },
+    {
+      "dep_airport_name": "LA PALMA",
+      "Abertura de claros": 342,
+      "Cubierto de nubes altas y medias": 218,
+      "Nubes altas": 639,
+      "Nubosidad variable": 274
+    },
+    {
+      "dep_airport_name": "LANZAROTE",
+      "sin especificar": 1,
+      "Cubierto de nubes altas y medias": 56,
+      "Despejado": 307,
+      "Nubes altas": 584,
+      "Nubosidad variable": 393
+    }
+  ]
+}
